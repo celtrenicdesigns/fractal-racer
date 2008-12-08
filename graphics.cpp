@@ -1,6 +1,6 @@
 #include "graphics.h"
 
-#define DRAW_DISTANCE      256.f
+#define DRAW_DISTANCE      512.f
 
 GLfloat x_rot = 0.f, y_rot = 180.f;
 GLfloat x_pos = 0.f, y_pos = 3.f, z_pos = -20.f;
